@@ -124,7 +124,7 @@ disqusShortname = ""
     [[params.tiles.showcase]]
       title = "IMDb Ratings"
       subtitle = "Movie Data Analysis"
-      image = "movies.jpg"
+      image = "movies1.jpg"
       url = "projects/IMDB"
     # You can make more showcases by copy and pasting the code above
 
