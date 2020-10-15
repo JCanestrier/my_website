@@ -219,7 +219,7 @@ disqusShortname = ""
       label = "Email"
       
     [[params.footer.social]]
-      icon = "fa-phone"
+      icon = "fa-envelope"
       url= "+44(0) 7730 708670"
       label = "Phone"
 
