@@ -41,23 +41,23 @@ disqusShortname = ""
     #subtitle = "Data Analytics for Finance"
     menu = "Menu"
     # Optional logo as brand stored in img/
-    # logo = "logo.png"
+    logo = "logo.png"
 
     [[params.navigation.links]]
       name = "Home"
       url = "#"
 
     [[params.navigation.links]]
-      name = "Blogs"
+      name = "About Me"
       url = "blogs"
 
     [[params.navigation.links]]
-      name = "Generic Blog"
+      name = "What I Read"
       url = "blogs/ipsum"
 
-    [[params.navigation.links]]
-      name = "Elements"
-      url = "elements.html"
+    #[[params.navigation.links]]
+     # name = "Elements"
+      #url = "elements.html"
 
     # Add custom links here by uncommenting code below. To remove links just delete
     # the [[params.navigation.links]] map associated with that link. Copy and paste
