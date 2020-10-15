@@ -214,14 +214,9 @@ disqusShortname = ""
       label = "LinkedIn"
       
     [[params.footer.social]]
-      icon = "fa-email"
+      icon = "fa-envelope"
       url= "juliencanestrier98@gmail.com"
       label = "Email"
-      
-    [[params.footer.social]]
-      icon = "fa-envelope"
-      url= "+44(0) 7730 708670"
-      label = "Phone"
 
     [[params.footer.quicklinks]]
       text = "Special thanks to"
