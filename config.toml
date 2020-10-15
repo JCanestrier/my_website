@@ -112,7 +112,7 @@ disqusShortname = ""
     [[params.tiles.showcase]]
       title = "CEO Compensation Research"
       subtitle = "Academic Research"
-      image = "thesis.gif"
+      image = "thesis.jpg"
       url = "projects/thesis"
 
     [[params.tiles.showcase]]
