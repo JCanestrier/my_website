@@ -149,7 +149,7 @@ disqusShortname = ""
 
   # Contact section
   [params.contact]
-   enable = true
+   enable = false
     #buttonSend = "Send message"
     #buttonClear = "Clear"
 
@@ -212,6 +212,16 @@ disqusShortname = ""
       icon = "fa-linkedin"
       url= "https://www.linkedin.com/in/julien-canestrier/"
       label = "LinkedIn"
+      
+    [[params.footer.social]]
+      icon = "fa-email"
+      url= "juliencanestrier98@gmail.com"
+      label = "Email"
+      
+    [[params.footer.social]]
+      icon = "fa-phone"
+      url= "+44(0) 7730 708670"
+      label = "Phone"
 
     [[params.footer.quicklinks]]
       text = "Special thanks to"
