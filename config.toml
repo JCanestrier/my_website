@@ -32,8 +32,8 @@ disqusShortname = ""
 
   # 404 error customization
   [params.error404]
-    heading = "Something went wrong!"
-    text = "Please email me at juliencanestrier98@gmail.com"
+    heading = "Let's get in touch!"
+    text = "Please email me at juliencanestrier98@gmail.com or give me a ring at +44(0) 7730 708670."
 
   # Navigation Section
   [params.navigation]
