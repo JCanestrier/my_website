@@ -93,37 +93,37 @@ disqusShortname = ""
     
     [[params.tiles.showcase]]
       title = "About Me"
-      #subtitle = "Ipsum Dolor Sit Amet"
+      subtitle = ""
       image = "pic01.jpg"
       url = "aboutme"
 
     [[params.tiles.showcase]]
       title = "What I Read"
-      #subtitle = "Feugiat Amet Tempus"
+      subtitle = ""
       image = "pic02.jpg"
       url = "whatiread"
 
     [[params.tiles.showcase]]
       title = "Digital Team Collaboration"
-      #subtitle = "Lorem Etiam Nullam"
+      subtitle = ""
       image = "pic03.jpg"
       url = "projects/teamcollab"
 
     [[params.tiles.showcase]]
       title = "CEO Compensation Research"
-      #subtitle = "Nisl Sed Aliquam"
+      subtitle = ""
       image = "pic04.jpg"
       url = "projects/thesis"
 
     [[params.tiles.showcase]]
       title = "Tfl Bikes Data Analysis"
-      #subtitle = "Ipsum Dolor Sit Amet"
+      subtitle = ""
       image = "pic05.jpg"
       url = "projects/tflbikes"
 
     [[params.tiles.showcase]]
       title = "IMDb Ratings Data Analysis"
-      #subtitle = "Feugiat Amet Tempus"
+      subtitle = ""
       image = "pic06.jpg"
       url = "projects/IMDB"
     # You can make more showcases by copy and pasting the code above
