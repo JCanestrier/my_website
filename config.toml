@@ -100,13 +100,13 @@ disqusShortname = ""
     [[params.tiles.showcase]]
       title = "What I Read"
       subtitle = "Interesting Literature"
-      image = "pic02.jpg"
+      image = "reading.jpg"
       url = "whatiread"
 
     [[params.tiles.showcase]]
       title = "Digital Team Collaboration"
       subtitle = "Market Research"
-      image = "pic03.jpg"
+      image = "collaboration.png"
       url = "projects/teamcollab"
 
     [[params.tiles.showcase]]
@@ -142,7 +142,7 @@ disqusShortname = ""
     subtitle = """Thank you for visiting my portfolio website. 
     This website was created during my Data Analytics for Finance course at London Business School.
     I will continue to update this website with a brief summary of myself, the books I have enjoyed reading, and any internal projects I have worked on. 
-    Feel free to explore this website and please do not hesitate to contact me if you have any questions or want to spark a conversation!"""
+    Feel free to explore this website and please do not hesitate to contact me if you have any questions or if you simply want to spark a conversation!"""
     buttonText = "Get Started"
     url = "aboutme"
 
