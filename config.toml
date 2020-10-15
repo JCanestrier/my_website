@@ -32,13 +32,13 @@ disqusShortname = ""
 
   # 404 error customization
   [params.error404]
-    heading = "Page couldn't be found"
-    text = "Please visit [this page](/)"
+    heading = "Something went wrong!"
+    text = "Please email me at juliencanestrier98@gmail.com"
 
   # Navigation Section
   [params.navigation]
-    title = "Forty"
-    subtitle = "By HTML5 Up"
+    title = "Julien Canestrier"
+    #subtitle = "Data Analytics for Finance"
     menu = "Menu"
     # Optional logo as brand stored in img/
     # logo = "logo.png"
