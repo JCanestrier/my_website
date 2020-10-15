@@ -149,7 +149,7 @@ disqusShortname = ""
 
   # Contact section
   [params.contact]
-   # enable = true
+   enable = true
     #buttonSend = "Send message"
     #buttonClear = "Clear"
 
