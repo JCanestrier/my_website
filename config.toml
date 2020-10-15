@@ -110,7 +110,7 @@ disqusShortname = ""
       url = "projects/teamcollab"
 
     [[params.tiles.showcase]]
-      title = "CEO Compensation Research"
+      title = "CEO Compensation"
       subtitle = "Academic Research"
       image = "thesis.jpg"
       url = "projects/thesis"
