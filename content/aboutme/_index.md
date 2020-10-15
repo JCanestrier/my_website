@@ -6,4 +6,4 @@ slug: aboutme
 title: About me
 ---
 
-Born in the south of France, raised in Las Vegas, and studying across Europe and Asia,
+WORK In Progress
