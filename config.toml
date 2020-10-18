@@ -49,7 +49,7 @@ disqusShortname = ""
 
     [[params.navigation.links]]
       name = "About Me"
-      url = "aboutme"
+      url = "aboutme/aboutme"
 
     [[params.navigation.links]]
       name = "What I Read"
@@ -95,7 +95,7 @@ disqusShortname = ""
       title = "About Me"
       subtitle = "Background and interests"
       image = "aboutme.jpg"
-      url = "aboutme"
+      url = "aboutme/aboutme"
 
     [[params.tiles.showcase]]
       title = "What I Read"
