@@ -11,7 +11,7 @@ keywords: ""
 slug: aboutme
 title: My Background and Interests
 ---
-```{r load-libraries, echo=FALSE}
+```{r load-libraries, include=FALSE}
 library(tidyverse)  # Load ggplot2, dplyr, and all the other tidyverse packages
 library(mosaic)
 library(ggthemes)
