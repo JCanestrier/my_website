@@ -1,3 +1,4 @@
+
 ---
 categories:
 - ""
@@ -5,23 +6,10 @@ categories:
 date: "2017-10-31T22:26:09-05:00"
 description: Lorem Etiam Nullam
 draft: false
-image: thesis.jpg
+image:  aboutme.jpg
 keywords: ""
 slug: aboutme
-title: How CEO Stock Options affect Firm Risk-taking
+title: My Background and Interests
 ---
 
-Test!!!!!!
-How CEO Stock Options affect Firm Risk-taking
-How CEO Stock Options affect Firm Risk-taking
-How CEO Stock Options affect Firm Risk-taking
-How CEO Stock Options affect Firm Risk-taking
-How CEO Stock Options affect Firm Risk-taking
-How CEO Stock Options affect Firm Risk-taking
-How CEO Stock Options affect Firm Risk-taking
-How CEO Stock Options affect Firm Risk-takingHow CEO Stock Options affect Firm Risk-taking
-
-How CEO Stock Options affect Firm Risk-taking
-How CEO Stock Options affect Firm Risk-taking
-How CEO Stock Options affect Firm Risk-taking
-How CEO Stock Options affect Firm Risk-takingHow CEO Stock Options affect Firm Risk-takingHow CEO Stock Options affect Firm Risk-takingHow CEO Stock Options affect Firm Risk-takingHow CEO Stock Options affect Firm Risk-takingHow CEO Stock Options affect Firm Risk-takingHow CEO Stock Options affect Firm Risk-takingHow CEO Stock Options affect Firm Risk-takingHow CEO Stock Options affect Firm Risk-takingHow CEO Stock Options affect Firm Risk-taking
+UPDATE

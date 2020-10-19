@@ -6,8 +6,4 @@ slug: aboutme
 title: About me
 ---
 
-WORK In Progress
-
-
-
-HI thoe this work?
+This link is hidden
