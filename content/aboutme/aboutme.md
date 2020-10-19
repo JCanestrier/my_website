@@ -11,5 +11,21 @@ keywords: ""
 slug: aboutme
 title: My Background and Interests
 ---
+```{r load-libraries, echo=FALSE}
+library(tidyverse)  # Load ggplot2, dplyr, and all the other tidyverse packages
+library(mosaic)
+library(ggthemes)
+library(lubridate)
+library(here)
+library(skimr)
+library(janitor)
+library(httr)
+library(readxl)
+library(vroom)
+library(grid)
+```
 
-UPDATE
+
+```{r linkedin_pic, include=FALSE, out.width="100%"}
+knitr::include_graphics(here::here("static", "aboutme.jpg"), error = FALSE)
+```
