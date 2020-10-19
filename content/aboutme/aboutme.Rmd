@@ -26,6 +26,6 @@ library(grid)
 ```
 
 
-```{r profile_pic, echo=FALSE, out.width="100%"}
+```{r profile_pic, out.width="100%"}
 knitr::include_graphics(here::here("static", "aboutme.jpg"), error = FALSE)
 ```
