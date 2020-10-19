@@ -28,7 +28,7 @@ How CEO Stock Options affect Firm Risk-taking
 How CEO Stock Options affect Firm Risk-takingHow CEO Stock Options affect Firm Risk-takingHow CEO Stock Options affect Firm Risk-takingHow CEO Stock Options affect Firm Risk-takingHow CEO Stock Options affect Firm Risk-takingHow CEO Stock Options affect Firm Risk-takingHow CEO Stock Options affect Firm Risk-takingHow CEO Stock Options affect Firm Risk-takingHow CEO Stock Options affect Firm Risk-takingHow CEO Stock Options affect Firm Risk-taking
 
 ```{r profile_pic, echo=FALSE, out.width="100%"}
-knitr::include_graphics(here::here("static", "obstacle.jpg"), error = FALSE)
+knitr::include_graphics(here::here("data", "obstacle.jpg"), error = FALSE)
 ```
 
 ```{r profile_pic, echo=FALSE, out.width="100%"}
