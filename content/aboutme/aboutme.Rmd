@@ -11,6 +11,10 @@ keywords: ""
 slug: aboutme
 title: My Background and Interests
 ---
+
+![](aboutme.jpg)
+
+
 ```{r load-libraries, include=FALSE}
 library(tidyverse)  # Load ggplot2, dplyr, and all the other tidyverse packages
 library(mosaic)
