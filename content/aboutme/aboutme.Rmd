@@ -26,7 +26,6 @@ library(grid)
 ```
 
 
-```{r linkedin_pic}
-r <- 2+4
-r
+```{r profile_pic, echo=FALSE, out.width="100%"}
+knitr::include_graphics(here::here("img", "aboutme.jpg"), error = FALSE)
 ```
