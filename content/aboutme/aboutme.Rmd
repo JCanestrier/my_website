@@ -12,7 +12,7 @@ slug: aboutme
 title: My Background and Interests
 ---
 
-![](aboutme.jpg)
+![](aboutme.png)
 
 
 ```{r load-libraries, include=FALSE}
