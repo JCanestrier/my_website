@@ -10,7 +10,8 @@ keywords: ""
 slug: whatiread
 title: How CEO Stock Options affect Firm Risk-taking
 ---
-[![Image name](image.png)](http://www.host.com/link.html)
+
+![](aboutme.jpg)
 
 Test!!!!!!
 How CEO Stock Options affect Firm Risk-taking
@@ -27,10 +28,7 @@ How CEO Stock Options affect Firm Risk-taking
 How CEO Stock Options affect Firm Risk-taking
 How CEO Stock Options affect Firm Risk-takingHow CEO Stock Options affect Firm Risk-takingHow CEO Stock Options affect Firm Risk-takingHow CEO Stock Options affect Firm Risk-takingHow CEO Stock Options affect Firm Risk-takingHow CEO Stock Options affect Firm Risk-takingHow CEO Stock Options affect Firm Risk-takingHow CEO Stock Options affect Firm Risk-takingHow CEO Stock Options affect Firm Risk-takingHow CEO Stock Options affect Firm Risk-taking
 
-```{r profile_pic, echo=FALSE, out.width="100%"}
-knitr::include_graphics(here::here("data", "obstacle.jpg"), error = FALSE)
-```
-
-```{r profile_pic, echo=FALSE, out.width="100%"}
+```{r profile_pic, echo=FALSE, out.width="50%"}
 
 ```
+
