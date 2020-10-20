@@ -14,3 +14,294 @@ categories:
 ```{r pag1_pic, echo=FALSE, out.width="70%",fig.width=1,fig.height=1,fig.align="center"}
 knitr::include_graphics("/img/pag1.jpg", error = FALSE)
 ```
+
+```{r pag2_pic, echo=FALSE, out.width="70%",fig.width=1,fig.height=1,fig.align="center"}
+knitr::include_graphics("/img/pag2.jpg", error = FALSE)
+```
+
+```{r pag3_pic, echo=FALSE, out.width="70%",fig.width=1,fig.height=1,fig.align="center"}
+knitr::include_graphics("/img/pag3.jpg", error = FALSE)
+```
+
+```{r pag4_pic, echo=FALSE, out.width="70%",fig.width=1,fig.height=1,fig.align="center"}
+knitr::include_graphics("/img/pag4.jpg", error = FALSE)
+```
+
+```{r pag5_pic, echo=FALSE, out.width="70%",fig.width=1,fig.height=1,fig.align="center"}
+knitr::include_graphics("/img/pag5.jpg", error = FALSE)
+```
+
+```{r pag6_pic, echo=FALSE, out.width="70%",fig.width=1,fig.height=1,fig.align="center"}
+knitr::include_graphics("/img/pag6.jpg", error = FALSE)
+```
+
+```{r pag7_pic, echo=FALSE, out.width="70%",fig.width=1,fig.height=1,fig.align="center"}
+knitr::include_graphics("/img/pag7.jpg", error = FALSE)
+```
+
+
+```{r pag8_pic, echo=FALSE, out.width="70%",fig.width=1,fig.height=1,fig.align="center"}
+knitr::include_graphics("/img/pag8.jpg", error = FALSE)
+```
+
+```{r pag9_pic, echo=FALSE, out.width="70%",fig.width=1,fig.height=1,fig.align="center"}
+knitr::include_graphics("/img/pag9.jpg", error = FALSE)
+```
+
+```{r pag10_pic, echo=FALSE, out.width="70%",fig.width=1,fig.height=1,fig.align="center"}
+knitr::include_graphics("/img/pag10.jpg", error = FALSE)
+```
+
+```{r pag11_pic, echo=FALSE, out.width="70%",fig.width=1,fig.height=1,fig.align="center"}
+knitr::include_graphics("/img/pag11.jpg", error = FALSE)
+```
+
+```{r pag12_pic, echo=FALSE, out.width="70%",fig.width=1,fig.height=1,fig.align="center"}
+knitr::include_graphics("/img/pag12.jpg", error = FALSE)
+```
+
+```{r pag13_pic, echo=FALSE, out.width="70%",fig.width=1,fig.height=1,fig.align="center"}
+knitr::include_graphics("/img/pag13.jpg", error = FALSE)
+```
+
+```{r pag14_pic, echo=FALSE, out.width="70%",fig.width=1,fig.height=1,fig.align="center"}
+knitr::include_graphics("/img/pag14.jpg", error = FALSE)
+```
+
+```{r pag15_pic, echo=FALSE, out.width="70%",fig.width=1,fig.height=1,fig.align="center"}
+knitr::include_graphics("/img/pag15.jpg", error = FALSE)
+```
+
+```{r pag16_pic, echo=FALSE, out.width="70%",fig.width=1,fig.height=1,fig.align="center"}
+knitr::include_graphics("/img/pag16.jpg", error = FALSE)
+```
+
+```{r pag17_pic, echo=FALSE, out.width="70%",fig.width=1,fig.height=1,fig.align="center"}
+knitr::include_graphics("/img/pag17.jpg", error = FALSE)
+```
+
+```{r pag18_pic, echo=FALSE, out.width="70%",fig.width=1,fig.height=1,fig.align="center"}
+knitr::include_graphics("/img/pag18.jpg", error = FALSE)
+```
+
+```{r pag19_pic, echo=FALSE, out.width="70%",fig.width=1,fig.height=1,fig.align="center"}
+knitr::include_graphics("/img/pag19.jpg", error = FALSE)
+```
+
+```{r pag20_pic, echo=FALSE, out.width="70%",fig.width=1,fig.height=1,fig.align="center"}
+knitr::include_graphics("/img/pag20.jpg", error = FALSE)
+```
+
+```{r pag21_pic, echo=FALSE, out.width="70%",fig.width=1,fig.height=1,fig.align="center"}
+knitr::include_graphics("/img/pag21.jpg", error = FALSE)
+```
+
+
+```{r pag22_pic, echo=FALSE, out.width="70%",fig.width=1,fig.height=1,fig.align="center"}
+knitr::include_graphics("/img/pag22.jpg", error = FALSE)
+```
+
+```{r pag23_pic, echo=FALSE, out.width="70%",fig.width=1,fig.height=1,fig.align="center"}
+knitr::include_graphics("/img/pag23.jpg", error = FALSE)
+```
+
+```{r pag24_pic, echo=FALSE, out.width="70%",fig.width=1,fig.height=1,fig.align="center"}
+knitr::include_graphics("/img/pag24.jpg", error = FALSE)
+```
+
+```{r pag25_pic, echo=FALSE, out.width="70%",fig.width=1,fig.height=1,fig.align="center"}
+knitr::include_graphics("/img/pag25.jpg", error = FALSE)
+```
+
+```{r pag26_pic, echo=FALSE, out.width="70%",fig.width=1,fig.height=1,fig.align="center"}
+knitr::include_graphics("/img/pag26.jpg", error = FALSE)
+```
+
+```{r pag27_pic, echo=FALSE, out.width="70%",fig.width=1,fig.height=1,fig.align="center"}
+knitr::include_graphics("/img/pag27.jpg", error = FALSE)
+```
+
+```{r pag28_pic, echo=FALSE, out.width="70%",fig.width=1,fig.height=1,fig.align="center"}
+knitr::include_graphics("/img/pag28.jpg", error = FALSE)
+```
+
+```{r pag29_pic, echo=FALSE, out.width="70%",fig.width=1,fig.height=1,fig.align="center"}
+knitr::include_graphics("/img/pag29.jpg", error = FALSE)
+```
+
+```{r pag30_pic, echo=FALSE, out.width="70%",fig.width=1,fig.height=1,fig.align="center"}
+knitr::include_graphics("/img/pag30.jpg", error = FALSE)
+```
+
+```{r pag31_pic, echo=FALSE, out.width="70%",fig.width=1,fig.height=1,fig.align="center"}
+knitr::include_graphics("/img/pag31.jpg", error = FALSE)
+```
+
+```{r pag32_pic, echo=FALSE, out.width="70%",fig.width=1,fig.height=1,fig.align="center"}
+knitr::include_graphics("/img/pag32.jpg", error = FALSE)
+```
+
+```{r pag33_pic, echo=FALSE, out.width="70%",fig.width=1,fig.height=1,fig.align="center"}
+knitr::include_graphics("/img/pag33.jpg", error = FALSE)
+```
+
+```{r pag34_pic, echo=FALSE, out.width="70%",fig.width=1,fig.height=1,fig.align="center"}
+knitr::include_graphics("/img/pag34.jpg", error = FALSE)
+```
+
+```{r pag35_pic, echo=FALSE, out.width="70%",fig.width=1,fig.height=1,fig.align="center"}
+knitr::include_graphics("/img/pag35.jpg", error = FALSE)
+```
+
+
+```{r pag36_pic, echo=FALSE, out.width="70%",fig.width=1,fig.height=1,fig.align="center"}
+knitr::include_graphics("/img/pag36.jpg", error = FALSE)
+```
+
+
+```{r pag37_pic, echo=FALSE, out.width="70%",fig.width=1,fig.height=1,fig.align="center"}
+knitr::include_graphics("/img/pag37.jpg", error = FALSE)
+```
+
+
+```{r pag38_pic, echo=FALSE, out.width="70%",fig.width=1,fig.height=1,fig.align="center"}
+knitr::include_graphics("/img/pag38.jpg", error = FALSE)
+```
+
+
+```{r pag39_pic, echo=FALSE, out.width="70%",fig.width=1,fig.height=1,fig.align="center"}
+knitr::include_graphics("/img/pag39.jpg", error = FALSE)
+```
+
+
+```{r pag40_pic, echo=FALSE, out.width="70%",fig.width=1,fig.height=1,fig.align="center"}
+knitr::include_graphics("/img/pag40.jpg", error = FALSE)
+```
+
+```{r pag41_pic, echo=FALSE, out.width="70%",fig.width=1,fig.height=1,fig.align="center"}
+knitr::include_graphics("/img/pag41.jpg", error = FALSE)
+```
+
+
+```{r pag42_pic, echo=FALSE, out.width="70%",fig.width=1,fig.height=1,fig.align="center"}
+knitr::include_graphics("/img/pag42.jpg", error = FALSE)
+```
+
+
+```{r pag43_pic, echo=FALSE, out.width="70%",fig.width=1,fig.height=1,fig.align="center"}
+knitr::include_graphics("/img/pag43.jpg", error = FALSE)
+```
+
+
+```{r pag44_pic, echo=FALSE, out.width="70%",fig.width=1,fig.height=1,fig.align="center"}
+knitr::include_graphics("/img/pag44.jpg", error = FALSE)
+```
+
+```{r pag45_pic, echo=FALSE, out.width="70%",fig.width=1,fig.height=1,fig.align="center"}
+knitr::include_graphics("/img/pag45.jpg", error = FALSE)
+```
+
+```{r pag46_pic, echo=FALSE, out.width="70%",fig.width=1,fig.height=1,fig.align="center"}
+knitr::include_graphics("/img/pag46.jpg", error = FALSE)
+```
+
+```{r pag47_pic, echo=FALSE, out.width="70%",fig.width=1,fig.height=1,fig.align="center"}
+knitr::include_graphics("/img/pag47.jpg", error = FALSE)
+```
+
+```{r pag48_pic, echo=FALSE, out.width="70%",fig.width=1,fig.height=1,fig.align="center"}
+knitr::include_graphics("/img/pag48.jpg", error = FALSE)
+```
+
+
+```{r pag49_pic, echo=FALSE, out.width="70%",fig.width=1,fig.height=1,fig.align="center"}
+knitr::include_graphics("/img/pag49.jpg", error = FALSE)
+```
+
+
+```{r pag50_pic, echo=FALSE, out.width="70%",fig.width=1,fig.height=1,fig.align="center"}
+knitr::include_graphics("/img/pag50.jpg", error = FALSE)
+```
+
+
+```{r pag51_pic, echo=FALSE, out.width="70%",fig.width=1,fig.height=1,fig.align="center"}
+knitr::include_graphics("/img/pag51.jpg", error = FALSE)
+```
+
+```{r pag52_pic, echo=FALSE, out.width="70%",fig.width=1,fig.height=1,fig.align="center"}
+knitr::include_graphics("/img/pag52.jpg", error = FALSE)
+```
+
+```{r pag53_pic, echo=FALSE, out.width="70%",fig.width=1,fig.height=1,fig.align="center"}
+knitr::include_graphics("/img/pag53.jpg", error = FALSE)
+```
+
+```{r pag54_pic, echo=FALSE, out.width="70%",fig.width=1,fig.height=1,fig.align="center"}
+knitr::include_graphics("/img/pag54.jpg", error = FALSE)
+```
+
+```{r pag55_pic, echo=FALSE, out.width="70%",fig.width=1,fig.height=1,fig.align="center"}
+knitr::include_graphics("/img/pag55.jpg", error = FALSE)
+```
+
+```{r pag56_pic, echo=FALSE, out.width="70%",fig.width=1,fig.height=1,fig.align="center"}
+knitr::include_graphics("/img/pag56.jpg", error = FALSE)
+```
+
+```{r pag57_pic, echo=FALSE, out.width="70%",fig.width=1,fig.height=1,fig.align="center"}
+knitr::include_graphics("/img/pag57.jpg", error = FALSE)
+```
+
+```{r pag58_pic, echo=FALSE, out.width="70%",fig.width=1,fig.height=1,fig.align="center"}
+knitr::include_graphics("/img/pag58.jpg", error = FALSE)
+```
+
+```{r pag59_pic, echo=FALSE, out.width="70%",fig.width=1,fig.height=1,fig.align="center"}
+knitr::include_graphics("/img/pag59.jpg", error = FALSE)
+```
+
+```{r pag60_pic, echo=FALSE, out.width="70%",fig.width=1,fig.height=1,fig.align="center"}
+knitr::include_graphics("/img/pag60.jpg", error = FALSE)
+```
+
+```{r pag61_pic, echo=FALSE, out.width="70%",fig.width=1,fig.height=1,fig.align="center"}
+knitr::include_graphics("/img/pag61.jpg", error = FALSE)
+```
+
+```{r pag62_pic, echo=FALSE, out.width="70%",fig.width=1,fig.height=1,fig.align="center"}
+knitr::include_graphics("/img/pag62.jpg", error = FALSE)
+```
+
+```{r pag63_pic, echo=FALSE, out.width="70%",fig.width=1,fig.height=1,fig.align="center"}
+knitr::include_graphics("/img/pag63.jpg", error = FALSE)
+```
+
+```{r pag64_pic, echo=FALSE, out.width="70%",fig.width=1,fig.height=1,fig.align="center"}
+knitr::include_graphics("/img/pag64.jpg", error = FALSE)
+```
+
+```{r pag65_pic, echo=FALSE, out.width="70%",fig.width=1,fig.height=1,fig.align="center"}
+knitr::include_graphics("/img/pag65.jpg", error = FALSE)
+```
+
+```{r pag66_pic, echo=FALSE, out.width="70%",fig.width=1,fig.height=1,fig.align="center"}
+knitr::include_graphics("/img/pag66.jpg", error = FALSE)
+```
+
+```{r pag67_pic, echo=FALSE, out.width="70%",fig.width=1,fig.height=1,fig.align="center"}
+knitr::include_graphics("/img/pag67.jpg", error = FALSE)
+```
+
+```{r pag68_pic, echo=FALSE, out.width="70%",fig.width=1,fig.height=1,fig.align="center"}
+knitr::include_graphics("/img/pag68.jpg", error = FALSE)
+```
+
+```{r pag69_pic, echo=FALSE, out.width="70%",fig.width=1,fig.height=1,fig.align="center"}
+knitr::include_graphics("/img/pag69.jpg", error = FALSE)
+```
+
+```{r pag70_pic, echo=FALSE, out.width="70%",fig.width=1,fig.height=1,fig.align="center"}
+knitr::include_graphics("/img/pag70.jpg", error = FALSE)
+```
+
+
