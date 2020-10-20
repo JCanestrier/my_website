@@ -43,11 +43,11 @@ knitr::include_graphics("/img/pic08.jpg", error = FALSE)
 knitr::include_graphics("/img/pic09.jpg", error = FALSE)
 ```
 
-```{r jeff_pic, echo=FALSE, out.width="30%",fig.width=0.1,fig.height=0.1,fig.align="center"}
+```{r jeff_pic, echo=FALSE, out.width="20%",fig.width=0.1,fig.height=0.1,fig.align="center"}
 knitr::include_graphics("/img/pic10.jpg", error = FALSE)
 ```
 
-```{r sapiens_pic, echo=FALSE, out.width="30%",fig.width=0.1,fig.height=0.1,fig.align="center"}
+```{r sapiens_pic, echo=FALSE, out.width="20%",fig.width=0.1,fig.height=0.1,fig.align="center"}
 knitr::include_graphics("/img/pic11.jpg", error = FALSE)
 ```
 
