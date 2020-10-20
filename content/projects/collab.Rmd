@@ -1,0 +1,101 @@
+
+---
+title: "Online Team Collaboration"
+date: '2017-10-31T21:28:43-05:00'
+description: ''
+draft: no
+image: collaboration.png
+keywords: ''
+slug: teamcollab
+categories:
+- ''
+- ''
+---
+
+```{r slide1_pic, echo=FALSE, out.width="50%",fig.width=1,fig.height=1,fig.align="center"}
+knitr::include_graphics("/img/pic100.jpg", error = FALSE)
+```
+
+```{r slide2_pic, echo=FALSE, out.width="50%",fig.width=1,fig.height=1,fig.align="center"}
+knitr::include_graphics("/img/pic101.jpg", error = FALSE)
+```
+
+```{r slide3_pic, echo=FALSE, out.width="50%",fig.width=1,fig.height=1,fig.align="center"}
+knitr::include_graphics("/img/pic102.jpg", error = FALSE)
+```
+
+```{r slide4_pic, echo=FALSE, out.width="50%",fig.width=1,fig.height=1,fig.align="center"}
+knitr::include_graphics("/img/pic01.jpg", error = FALSE)
+```
+
+```{r slide5_pic, echo=FALSE, out.width="50%",fig.width=1,fig.height=1,fig.align="center"}
+knitr::include_graphics("/img/pic01.jpg", error = FALSE)
+```
+
+```{r slide6_pic, echo=FALSE, out.width="50%",fig.width=1,fig.height=1,fig.align="center"}
+knitr::include_graphics("/img/pic01.jpg", error = FALSE)
+```
+
+```{r slide7_pic, echo=FALSE, out.width="50%",fig.width=1,fig.height=1,fig.align="center"}
+knitr::include_graphics("/img/pic01.jpg", error = FALSE)
+```
+
+```{r slide8_pic, echo=FALSE, out.width="50%",fig.width=1,fig.height=1,fig.align="center"}
+knitr::include_graphics("/img/pic01.jpg", error = FALSE)
+```
+
+```{r slide9_pic, echo=FALSE, out.width="50%",fig.width=1,fig.height=1,fig.align="center"}
+knitr::include_graphics("/img/pic01.jpg", error = FALSE)
+```
+
+```{r slide10_pic, echo=FALSE, out.width="50%",fig.width=1,fig.height=1,fig.align="center"}
+knitr::include_graphics("/img/pic01.jpg", error = FALSE)
+```
+
+```{r slide11_pic, echo=FALSE, out.width="50%",fig.width=1,fig.height=1,fig.align="center"}
+knitr::include_graphics("/img/pic01.jpg", error = FALSE)
+```
+
+```{r slide12_pic, echo=FALSE, out.width="50%",fig.width=1,fig.height=1,fig.align="center"}
+knitr::include_graphics("/img/pic01.jpg", error = FALSE)
+```
+
+```{r slide13_pic, echo=FALSE, out.width="50%",fig.width=1,fig.height=1,fig.align="center"}
+knitr::include_graphics("/img/pic01.jpg", error = FALSE)
+```
+
+```{r slide14_pic, echo=FALSE, out.width="50%",fig.width=1,fig.height=1,fig.align="center"}
+knitr::include_graphics("/img/pic01.jpg", error = FALSE)
+```
+
+```{r slide15_pic, echo=FALSE, out.width="50%",fig.width=1,fig.height=1,fig.align="center"}
+knitr::include_graphics("/img/pic01.jpg", error = FALSE)
+```
+
+```{r slide16_pic, echo=FALSE, out.width="50%",fig.width=1,fig.height=1,fig.align="center"}
+knitr::include_graphics("/img/pic01.jpg", error = FALSE)
+```
+
+```{r slide17_pic, echo=FALSE, out.width="50%",fig.width=1,fig.height=1,fig.align="center"}
+knitr::include_graphics("/img/pic01.jpg", error = FALSE)
+```
+
+```{r slide18_pic, echo=FALSE, out.width="50%",fig.width=1,fig.height=1,fig.align="center"}
+knitr::include_graphics("/img/pic01.jpg", error = FALSE)
+```
+
+```{r slide19_pic, echo=FALSE, out.width="50%",fig.width=1,fig.height=1,fig.align="center"}
+knitr::include_graphics("/img/pic01.jpg", error = FALSE)
+```
+
+```{r slide20_pic, echo=FALSE, out.width="50%",fig.width=1,fig.height=1,fig.align="center"}
+knitr::include_graphics("/img/pic01.jpg", error = FALSE)
+```
+
+```{r slide21_pic, echo=FALSE, out.width="50%",fig.width=1,fig.height=1,fig.align="center"}
+knitr::include_graphics("/img/pic01.jpg", error = FALSE)
+```
+
+```{r slide22_pic, echo=FALSE, out.width="50%",fig.width=1,fig.height=1,fig.align="center"}
+knitr::include_graphics("/img/pic01.jpg", error = FALSE)
+```
