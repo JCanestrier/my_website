@@ -1,8 +1,8 @@
 ---
 title: "Tfl Bikes Analysis"
 date: '2017-10-31T22:26:13-05:00'
-description: In this project, I have analysed the impact of COVID-19 on Tfl bike travel
-  as part of my Data Analytics for Finance course at London Business School.
+description: '''In this project, I have analysed the impact of COVID-19 on Tfl bike
+  travel as part of my Data Analytics for Finance course at London Business School.'''
 draft: no
 image: bikes.jpg
 keywords: ''
@@ -72,7 +72,7 @@ bike
 
 We can easily create a facet grid that plots bikes hired by month and year.
 
-```{r tfl_month_year_grid, echo=FALSE, out.width="100%"}
+```{r tfl_month_year_grid, out.width="100%"}
 knitr::include_graphics(here::here("/img/tfl_distributions_monthly.png"), error = FALSE)
 ```
 

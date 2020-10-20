@@ -1,14 +1,15 @@
 ---
-categories:
-- ""
-- ""
-date: "2017-10-31T22:42:51-05:00"
-description: Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.
-draft: false
+title: "IMDb Ratings Analysis"
+date: '2017-10-31T22:42:51-05:00'
+description: As a fan of movies, I analyse the relation between IMDB ratings and movie
+  chracteristics.
+draft: no
 image: movies1.jpg
-keywords: ""
+keywords: ''
 slug: imdb
-title: IMDb Ratings Analysis
+categories:
+- ''
+- ''
 ---
 
 <script src="/rmarkdown-libs/header-attrs/header-attrs.js"></script>
@@ -16,7 +17,7 @@ title: IMDb Ratings Analysis
 
 <div id="analysis-of-movies---imdb-dataset" class="section level1">
 <h1>Analysis of movies - IMDB dataset</h1>
-<p>As a big fan of movies, I couldn’t stop myself from analysing the impact of IMDB ratings. This is exactly what this project is about. We will find out the effect of IMDB ratings on gross revenue, on tickets sold, etc. Have fun reading!</p>
+<p>As a big fan of movies, I’m always happy to have a closer look at IMDB ratings. In this project, I compare movie characteristics with rating and then I zoom in on two well-known directors.</p>
 <pre class="r"><code>movies &lt;- read_csv(here::here(&quot;data&quot;, &quot;movies.csv&quot;))
 glimpse(movies)</code></pre>
 <pre><code>## Rows: 2,961
