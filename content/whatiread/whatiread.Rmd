@@ -15,22 +15,26 @@ title: How CEO Stock Options affect Firm Risk-taking
 knitr::include_graphics("/img/pic02.jpg", error = FALSE)
 ```
 
-Test!!!!!!
-How CEO Stock Options affect Firm Risk-taking
-How CEO Stock Options affect Firm Risk-taking
-How CEO Stock Options affect Firm Risk-taking
-How CEO Stock Options affect Firm Risk-taking
-How CEO Stock Options affect Firm Risk-taking
-How CEO Stock Options affect Firm Risk-taking
-How CEO Stock Options affect Firm Risk-taking
-How CEO Stock Options affect Firm Risk-takingHow CEO Stock Options affect Firm Risk-taking
-
-How CEO Stock Options affect Firm Risk-taking
-How CEO Stock Options affect Firm Risk-taking
-How CEO Stock Options affect Firm Risk-taking
-How CEO Stock Options affect Firm Risk-takingHow CEO Stock Options affect Firm Risk-takingHow CEO Stock Options affect Firm Risk-takingHow CEO Stock Options affect Firm Risk-takingHow CEO Stock Options affect Firm Risk-takingHow CEO Stock Options affect Firm Risk-takingHow CEO Stock Options affect Firm Risk-takingHow CEO Stock Options affect Firm Risk-takingHow CEO Stock Options affect Firm Risk-takingHow CEO Stock Options affect Firm Risk-taking
-
-```{r profile_pic, echo=FALSE, out.width="50%"}
-
+```{r obstacles_pic, echo=FALSE, out.width="50%",fig.width=0.1,fig.height=0.1,fig.align="right"}
+knitr::include_graphics("/img/pic03.jpg", error = FALSE)
 ```
 
+```{r obstacles_pic, echo=FALSE, out.width="50%",fig.width=0.1,fig.height=0.1,fig.align="left"}
+knitr::include_graphics("/img/pic02.jpg", error = FALSE)
+```
+
+```{r obstacles_pic, echo=FALSE, out.width="50%",fig.width=0.1,fig.height=0.1,fig.align="left"}
+knitr::include_graphics("/img/pic02.jpg", error = FALSE)
+```
+
+```{r obstacles_pic, echo=FALSE, out.width="50%",fig.width=0.1,fig.height=0.1,fig.align="left"}
+knitr::include_graphics("/img/pic02.jpg", error = FALSE)
+```
+
+```{r obstacles_pic, echo=FALSE, out.width="50%",fig.width=0.1,fig.height=0.1,fig.align="left"}
+knitr::include_graphics("/img/pic02.jpg", error = FALSE)
+```
+
+```{r obstacles_pic, echo=FALSE, out.width="50%",fig.width=0.1,fig.height=0.1,fig.align="left"}
+knitr::include_graphics("/img/pic02.jpg", error = FALSE)
+```
