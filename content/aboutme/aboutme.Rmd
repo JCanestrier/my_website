@@ -12,7 +12,7 @@ slug: aboutme
 title: My Background and Interests
 ---
 
-```{r add_my_new_picture, echo=FALSE, out.width="90%"}
+```{r add_my_new_picture, echo=FALSE, out.width="50%",fig.width=1,fig.height=1}
 knitr::include_graphics("/img/pic01.jpg", error = FALSE)
 ```
 
