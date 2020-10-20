@@ -11,10 +11,54 @@ categories:
 - ''
 ---
     
-```{r obstacles_pic, echo=FALSE, out.width="20%",fig.width=1,fig.height=1,fig.align="left"}
+```{r obstacles_pic, echo=FALSE, out.width="20%",fig.width=1,fig.height=1,fig.align="center"}
 knitr::include_graphics("/img/pic02.jpg", error = FALSE)
 ```
 
-```{r sleep_pic, echo=FALSE, out.width="20%",fig.width=0.1,fig.height=0.1,fig.align="right"}
+```{r sleep_pic, echo=FALSE, out.width="20%",fig.width=0.1,fig.height=0.1,fig.align="center"}
 knitr::include_graphics("/img/pic03.jpg", error = FALSE)
+```
+
+```{r poker_pic, echo=FALSE, out.width="20%",fig.width=0.1,fig.height=0.1,fig.align="center"}
+knitr::include_graphics("/img/pic04.jpg", error = FALSE)
+```
+
+```{r monkey_pic, echo=FALSE, out.width="20%",fig.width=0.1,fig.height=0.1,fig.align="center"}
+knitr::include_graphics("/img/pic05.jpg", error = FALSE)
+```
+
+```{r discussion_pic, echo=FALSE, out.width="20%",fig.width=0.1,fig.height=0.1,fig.align="center"}
+knitr::include_graphics("/img/pic06.jpg", error = FALSE)
+```
+
+```{r hell_pic, echo=FALSE, out.width="20%",fig.width=0.1,fig.height=0.1,fig.align="center"}
+knitr::include_graphics("/img/pic07.jpg", error = FALSE)
+```
+
+```{r emotions_pic, echo=FALSE, out.width="20%",fig.width=0.1,fig.height=0.1,fig.align="center"}
+knitr::include_graphics("/img/pic08.jpg", error = FALSE)
+```
+
+```{r investor_pic, echo=FALSE, out.width="20%",fig.width=0.1,fig.height=0.1,fig.align="center"}
+knitr::include_graphics("/img/pic09.jpg", error = FALSE)
+```
+
+```{r jeff_pic, echo=FALSE, out.width="40%",fig.width=0.1,fig.height=0.1,fig.align="center"}
+knitr::include_graphics("/img/pic10.jpg", error = FALSE)
+```
+
+```{r sapiens_pic, echo=FALSE, out.width="40%",fig.width=0.1,fig.height=0.1,fig.align="center"}
+knitr::include_graphics("/img/pic11.jpg", error = FALSE)
+```
+
+```{r homo_pic, echo=FALSE, out.width="20%",fig.width=0.1,fig.height=0.1,fig.align="center"}
+knitr::include_graphics("/img/pic12.jpg", error = FALSE)
+```
+
+```{r outlier_pic, echo=FALSE, out.width="20%",fig.width=0.1,fig.height=0.1,fig.align="center"}
+knitr::include_graphics("/img/pic13.jpg", error = FALSE)
+```
+
+```{r fuck_pic, echo=FALSE, out.width="20%",fig.width=0.1,fig.height=0.1,fig.align="center"}
+knitr::include_graphics("/img/pic14.jpg", error = FALSE)
 ```
