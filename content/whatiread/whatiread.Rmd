@@ -11,10 +11,10 @@ categories:
 - ''
 ---
     
-```{r obstacles_pic, echo=FALSE, out.width="50%",fig.width=1,fig.height=1,fig.align="left"}
+```{r obstacles_pic, echo=FALSE, out.width="10%",fig.width=1,fig.height=1,fig.align="left"}
 knitr::include_graphics("/img/pic02.jpg", error = FALSE)
 ```
 
-```{r sleep_pic, echo=FALSE, out.width="50%",fig.width=0.1,fig.height=0.1,fig.align="right"}
+```{r sleep_pic, echo=FALSE, out.width="10%",fig.width=0.1,fig.height=0.1,fig.align="right"}
 knitr::include_graphics("/img/pic03.jpg", error = FALSE)
 ```
