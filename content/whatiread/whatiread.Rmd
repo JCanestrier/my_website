@@ -11,7 +11,7 @@ slug: whatiread
 title: How CEO Stock Options affect Firm Risk-taking
 ---
 
-```{r obstacles_pic, echo=FALSE, out.width="50%",fig.width=1,fig.height=1,fig.align="left"}
+```{r obstacles_pic, echo=FALSE, out.width="50%",fig.width=0.1,fig.height=0.1,fig.align="left"}
 knitr::include_graphics("/img/pic02.jpg", error = FALSE)
 ```
 
