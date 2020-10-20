@@ -1,8 +1,8 @@
 ---
 title: "Tfl Bikes Analysis"
 date: '2017-10-31T22:26:13-05:00'
-description: '''In this project, I have analysed the impact of COVID-19 on Tfl bike
-  travel as part of my Data Analytics for Finance course at London Business School.'''
+description: In this project, I have analysed the impact of COVID-19 on Tfl bike travel
+  as part of my Data Analytics for Finance course at London Business School.
 draft: no
 image: bikes.jpg
 keywords: ''
@@ -67,17 +67,6 @@ bike <- bike0 %>%
 
 bike
 ```
-
-
-
-We can easily create a facet grid that plots bikes hired by month and year.
-
-```{r tfl_month_year_gr, out.width="100%"}
-knitr::include_graphics(here::here("/img/tfl.png"), error = FALSE)
-```
-
-We can already see the high level impact COVID-19 has had on Tfl Bike travel. 
-
 
 ```{r, get_tfl_dat, cache=TRUE}
 #We first start by calculating the historic monthly average between 2015 and 2019
