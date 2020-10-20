@@ -1,19 +1,29 @@
 
 ---
-categories:
-- ""
-- ""
-date: "2017-10-31T22:26:09-05:00"
+title: "My Background and Interests"
+date: '2017-10-31T22:26:09-05:00'
 description: Lorem Etiam Nullam
-draft: false
-image:  aboutme.jpg
-keywords: ""
+draft: no
+image: aboutme.jpg
+keywords: ''
 slug: aboutme
-title: My Background and Interests
+categories:
+- ''
+- ''
 ---
 
 ```{r profile_pic, echo=FALSE, out.width="50%",fig.width=1,fig.height=1,fig.align="center"}
 knitr::include_graphics("/img/pic01.jpg", error = FALSE)
 ```
+
+Born in the south of France and raised by French parents in Las Vegas, I am currently an MFA student at London Business School pursuing a career in the financial industry.
+
+As a child, I was always curious and keen to learn new things and I believe this still holds true today. Hence, I am always interested to learn new things from a diverse set of people. Having lived in the United States, France, Netherlands, Hong Kong and now London, I have acquired a global mindset and I aim to continue to develop this diverse mindset. Please feel free to get in touch!
+
+```{r CV_pic, echo=FALSE, out.width="90%",fig.width=1,fig.height=1,fig.align="center"}
+knitr::include_graphics("/img/piccv.jpg", error = FALSE)
+```
+
+
 
 
