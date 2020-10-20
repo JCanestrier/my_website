@@ -2,7 +2,8 @@
 ---
 title: "Online Team Collaboration"
 date: '2017-10-31T21:28:43-05:00'
-description: ''
+description: During my time at HPE Growth - a leading pan-European growth equity firm
+  - I had the opportunity to conduct research on the team collaboration software market
 draft: no
 image: collaboration.png
 keywords: ''
@@ -12,90 +13,179 @@ categories:
 - ''
 ---
 
-```{r slide1_pic, echo=FALSE, out.width="80%",fig.width=5,fig.height=5,fig.align="center"}
+```{r slide1_pic, echo=FALSE, out.width="95%",fig.width=5,fig.height=5,fig.align="center"}
 knitr::include_graphics("/img/pic100.jpg", error = FALSE)
 ```
 
-```{r slide2_pic, echo=FALSE, out.width="80%",fig.width=5,fig.height=5,fig.align="center"}
+```{r slide2_pic, echo=FALSE, out.width="95%",fig.width=5,fig.height=5,fig.align="center"}
 knitr::include_graphics("/img/pic101.jpg", error = FALSE)
 ```
 
-```{r slide3_pic, echo=FALSE, out.width="80%",fig.width=5,fig.height=5,fig.align="center"}
+```{r slide3_pic, echo=FALSE, out.width="95%",fig.width=5,fig.height=5,fig.align="center"}
 knitr::include_graphics("/img/pic102.jpg", error = FALSE)
 ```
 
-```{r slide4_pic, echo=FALSE, out.width="80%",fig.width=5,fig.height=5,fig.align="center"}
+```{r slide4_pic, echo=FALSE, out.width="95%",fig.width=5,fig.height=5,fig.align="center"}
 knitr::include_graphics("/img/pic103.jpg", error = FALSE)
 ```
 
-```{r slide5_pic, echo=FALSE, out.width="80%",fig.width=5,fig.height=5,fig.align="center"}
+```{r slide5_pic, echo=FALSE, out.width="95%",fig.width=5,fig.height=5,fig.align="center"}
 knitr::include_graphics("/img/pic104.jpg", error = FALSE)
 ```
 
-```{r slide6_pic, echo=FALSE, out.width="80%",fig.width=5,fig.height=5,fig.align="center"}
+```{r slide6_pic, echo=FALSE, out.width="95%",fig.width=5,fig.height=5,fig.align="center"}
 knitr::include_graphics("/img/pic105.jpg", error = FALSE)
 ```
 
-```{r slide7_pic, echo=FALSE, out.width="80%",fig.width=5,fig.height=5,fig.align="center"}
+```{r slide7_pic, echo=FALSE, out.width="95%",fig.width=5,fig.height=5,fig.align="center"}
 knitr::include_graphics("/img/pic106.jpg", error = FALSE)
 ```
 
-```{r slide8_pic, echo=FALSE, out.width="80%",fig.width=5,fig.height=5,fig.align="center"}
+```{r slide8_pic, echo=FALSE, out.width="95%",fig.width=5,fig.height=5,fig.align="center"}
 knitr::include_graphics("/img/pic107.jpg", error = FALSE)
 ```
 
-```{r slide9_pic, echo=FALSE, out.width="80%",fig.width=5,fig.height=5,fig.align="center"}
+```{r slide9_pic, echo=FALSE, out.width="95%",fig.width=5,fig.height=5,fig.align="center"}
 knitr::include_graphics("/img/pic108.jpg", error = FALSE)
 ```
 
-```{r slide10_pic, echo=FALSE, out.width="80%",fig.width=1,fig.height=1,fig.align="center"}
+```{r slide10_pic, echo=FALSE, out.width="95%",fig.width=1,fig.height=1,fig.align="center"}
 knitr::include_graphics("/img/pic109.jpg", error = FALSE)
 ```
 
-```{r slide11_pic, echo=FALSE, out.width="80%",fig.width=1,fig.height=1,fig.align="center"}
+```{r slide11_pic, echo=FALSE, out.width="95%",fig.width=1,fig.height=1,fig.align="center"}
 knitr::include_graphics("/img/pic110.jpg", error = FALSE)
 ```
 
-```{r slide12_pic, echo=FALSE, out.width="80%",fig.width=1,fig.height=1,fig.align="center"}
+```{r slide12_pic, echo=FALSE, out.width="95%",fig.width=1,fig.height=1,fig.align="center"}
 knitr::include_graphics("/img/pic111.jpg", error = FALSE)
 ```
 
-```{r slide13_pic, echo=FALSE, out.width="80%",fig.width=1,fig.height=1,fig.align="center"}
+```{r slide13_pic, echo=FALSE, out.width="95%",fig.width=1,fig.height=1,fig.align="center"}
 knitr::include_graphics("/img/pic112.jpg", error = FALSE)
 ```
 
-```{r slide14_pic, echo=FALSE, out.width="80%",fig.width=1,fig.height=1,fig.align="center"}
+```{r slide14_pic, echo=FALSE, out.width="95%",fig.width=1,fig.height=1,fig.align="center"}
 knitr::include_graphics("/img/pic113.jpg", error = FALSE)
 ```
 
-```{r slide15_pic, echo=FALSE, out.width="80%",fig.width=1,fig.height=1,fig.align="center"}
+```{r slide15_pic, echo=FALSE, out.width="95%",fig.width=1,fig.height=1,fig.align="center"}
 knitr::include_graphics("/img/pic114.jpg", error = FALSE)
 ```
 
-```{r slide16_pic, echo=FALSE, out.width="80%",fig.width=1,fig.height=1,fig.align="center"}
+```{r slide16_pic, echo=FALSE, out.width="95%",fig.width=1,fig.height=1,fig.align="center"}
 knitr::include_graphics("/img/pic115.jpg", error = FALSE)
 ```
 
-```{r slide17_pic, echo=FALSE, out.width="80%",fig.width=1,fig.height=1,fig.align="center"}
+```{r slide17_pic, echo=FALSE, out.width="95%",fig.width=1,fig.height=1,fig.align="center"}
 knitr::include_graphics("/img/pic116.jpg", error = FALSE)
 ```
 
-```{r slide18_pic, echo=FALSE, out.width="80%",fig.width=1,fig.height=1,fig.align="center"}
+```{r slide18_pic, echo=FALSE, out.width="95%",fig.width=1,fig.height=1,fig.align="center"}
 knitr::include_graphics("/img/pic117.jpg", error = FALSE)
 ```
 
-```{r slide19_pic, echo=FALSE, out.width="80%",fig.width=1,fig.height=1,fig.align="center"}
+```{r slide19_pic, echo=FALSE, out.width="95%",fig.width=1,fig.height=1,fig.align="center"}
 knitr::include_graphics("/img/pic118.jpg", error = FALSE)
 ```
 
-```{r slide20_pic, echo=FALSE, out.width="80%",fig.width=1,fig.height=1,fig.align="center"}
+```{r slide20_pic, echo=FALSE, out.width="95%",fig.width=1,fig.height=1,fig.align="center"}
 knitr::include_graphics("/img/pic119.jpg", error = FALSE)
 ```
 
-```{r slide21_pic, echo=FALSE, out.width="80%",fig.width=1,fig.height=1,fig.align="center"}
+```{r slide21_pic, echo=FALSE, out.width="95%",fig.width=1,fig.height=1,fig.align="center"}
 knitr::include_graphics("/img/pic120.jpg", error = FALSE)
 ```
 
-```{r slide22_pic, echo=FALSE, out.width="80%",fig.width=1,fig.height=1,fig.align="center"}
+```{r slide22_pic, echo=FALSE, out.width="95%",fig.width=1,fig.height=1,fig.align="center"}
 knitr::include_graphics("/img/pic121.jpg", error = FALSE)
 ```
+
+```{r slide23_pic, echo=FALSE, out.width="95%",fig.width=1,fig.height=1,fig.align="center"}
+knitr::include_graphics("/img/pic122.jpg", error = FALSE)
+```
+
+```{r slide24_pic, echo=FALSE, out.width="95%",fig.width=1,fig.height=1,fig.align="center"}
+knitr::include_graphics("/img/pic123.jpg", error = FALSE)
+```
+
+```{r slide25_pic, echo=FALSE, out.width="95%",fig.width=1,fig.height=1,fig.align="center"}
+knitr::include_graphics("/img/pic124.jpg", error = FALSE)
+```
+
+```{r slide26_pic, echo=FALSE, out.width="95%",fig.width=1,fig.height=1,fig.align="center"}
+knitr::include_graphics("/img/pic125.jpg", error = FALSE)
+```
+
+```{r slide27_pic, echo=FALSE, out.width="95%",fig.width=1,fig.height=1,fig.align="center"}
+knitr::include_graphics("/img/pic126.jpg", error = FALSE)
+```
+
+```{r slide28_pic, echo=FALSE, out.width="95%",fig.width=1,fig.height=1,fig.align="center"}
+knitr::include_graphics("/img/pic127.jpg", error = FALSE)
+```
+
+```{r slide29_pic, echo=FALSE, out.width="95%",fig.width=1,fig.height=1,fig.align="center"}
+knitr::include_graphics("/img/pic128.jpg", error = FALSE)
+```
+
+```{r slide30_pic, echo=FALSE, out.width="95%",fig.width=1,fig.height=1,fig.align="center"}
+knitr::include_graphics("/img/pic129.jpg", error = FALSE)
+```
+
+```{r slide31_pic, echo=FALSE, out.width="95%",fig.width=1,fig.height=1,fig.align="center"}
+knitr::include_graphics("/img/pic130.jpg", error = FALSE)
+```
+
+```{r slide32_pic, echo=FALSE, out.width="95%",fig.width=1,fig.height=1,fig.align="center"}
+knitr::include_graphics("/img/pic131.jpg", error = FALSE)
+```
+
+```{r slide33_pic, echo=FALSE, out.width="95%",fig.width=1,fig.height=1,fig.align="center"}
+knitr::include_graphics("/img/pic132.jpg", error = FALSE)
+```
+
+```{r slide34_pic, echo=FALSE, out.width="95%",fig.width=1,fig.height=1,fig.align="center"}
+knitr::include_graphics("/img/pic133.jpg", error = FALSE)
+```
+
+```{r slide35_pic, echo=FALSE, out.width="95%",fig.width=1,fig.height=1,fig.align="center"}
+knitr::include_graphics("/img/pic134.jpg", error = FALSE)
+```
+
+```{r slide36_pic, echo=FALSE, out.width="95%",fig.width=1,fig.height=1,fig.align="center"}
+knitr::include_graphics("/img/pic135.jpg", error = FALSE)
+```
+
+```{r slide37_pic, echo=FALSE, out.width="95%",fig.width=1,fig.height=1,fig.align="center"}
+knitr::include_graphics("/img/pic136.jpg", error = FALSE)
+```
+
+```{r slide38_pic, echo=FALSE, out.width="95%",fig.width=1,fig.height=1,fig.align="center"}
+knitr::include_graphics("/img/pic137.jpg", error = FALSE)
+```
+
+```{r slide39_pic, echo=FALSE, out.width="95%",fig.width=1,fig.height=1,fig.align="center"}
+knitr::include_graphics("/img/pic138.jpg", error = FALSE)
+```
+
+```{r slide40_pic, echo=FALSE, out.width="95%",fig.width=1,fig.height=1,fig.align="center"}
+knitr::include_graphics("/img/pic139.jpg", error = FALSE)
+```
+
+```{r slide41_pic, echo=FALSE, out.width="95%",fig.width=1,fig.height=1,fig.align="center"}
+knitr::include_graphics("/img/pic140.jpg", error = FALSE)
+```
+
+```{r slide42_pic, echo=FALSE, out.width="95%",fig.width=1,fig.height=1,fig.align="center"}
+knitr::include_graphics("/img/pic141.jpg", error = FALSE)
+```
+
+```{r slide43_pic, echo=FALSE, out.width="95%",fig.width=1,fig.height=1,fig.align="center"}
+knitr::include_graphics("/img/pic142.jpg", error = FALSE)
+```
+
+```{r slide44_pic, echo=FALSE, out.width="95%",fig.width=1,fig.height=1,fig.align="center"}
+knitr::include_graphics("/img/pic143.jpg", error = FALSE)
+```
+
