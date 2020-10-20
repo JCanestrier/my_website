@@ -8,7 +8,7 @@ draft: false
 image: thesis.jpg
 keywords: ""
 slug: whatiread
-title: How CEO Stock Options affect Firm Risk-taking
+title: How CEO Stock Options affect Firm Risk-taki
 ---
     
 ```{r obstacles_pic, echo=FALSE, out.width="50%",fig.width=0.1,fig.height=0.1,fig.align="left"}
