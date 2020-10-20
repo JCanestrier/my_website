@@ -17,21 +17,3 @@ knitr::include_graphics("/img/pic01.jpg", error = FALSE)
 ```
 
 
-```{r load-libraries, include=FALSE}
-library(tidyverse)  # Load ggplot2, dplyr, and all the other tidyverse packages
-library(mosaic)
-library(ggthemes)
-library(lubridate)
-library(here)
-library(skimr)
-library(janitor)
-library(httr)
-library(readxl)
-library(vroom)
-library(grid)
-```
-
-
-```{r profile_pic, echo=FALSE, out.width="100%"}
-knitr::include_graphics(here::here("static/aboutme","aboutme.jpg"), error = FALSE)
-```

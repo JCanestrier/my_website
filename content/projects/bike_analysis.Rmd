@@ -8,7 +8,7 @@ draft: false
 image: bikes.jpg
 keywords: ""
 slug: tflbikes
-title: Tfl Bikes Analysis
+title: Tfl Bikes Analyss
 ---
 
 
