@@ -11,4 +11,6 @@ categories:
 - ''
 ---
 
-WORK In Progre
+```{r pag1_pic, echo=FALSE, out.width="70%",fig.width=1,fig.height=1,fig.align="center"}
+knitr::include_graphics("/img/pag1.jpg", error = FALSE)
+```
