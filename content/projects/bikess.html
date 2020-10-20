@@ -17,7 +17,8 @@ categories:
 <script src="/rmarkdown-libs/header-attrs/header-attrs.js"></script>
 
 
-<p>Recall the TfL data on how many bikes were hired every single day. We can get the latest data by running the following</p>
+<p>In this project, I analyse how COVID-19 has impacted inner-city bike travel. As a former cyclist myself, I am always interested in these insights in particular because many road bikes in London are sold out due to high demand and heavy supply chain disruption during the COVID-19 crisis which is still ongoing during the time I publish this project.</p>
+<p>We first begin by gathering the data.</p>
 <pre class="r"><code>bike0 &lt;- read_csv(here::here(&quot;data&quot;, &quot;bikes.csv&quot;))
 
 
@@ -45,7 +46,8 @@ bike</code></pre>
 ## 10 2010-08-08        7864  2010 Aug      31
 ## # ... with 3,676 more rows</code></pre>
 <p>We can easily create a facet grid that plots bikes hired by month and year.</p>
-<p><img src="C:/Users/julie/Documents/1. LBS Computer/MFA/4. Class/2. Term One/2. Data Analytics/Website/my_website/static/aboutme/tfl_distributions_monthly.png" width="100%" style="display: block; margin: auto;" /></p>
+<p><img src="C:/Users/julie/Documents/1. LBS Computer/MFA/4. Class/2. Term One/2. Data Analytics/Website/my_website//img/tfl_distributions_monthly.png" width="100%" style="display: block; margin: auto;" /></p>
+<p>We can already see the high level impact COVID-19 has had on Tfl Bike travel.</p>
 <pre class="r"><code>#We first start by calculating the historic monthly average between 2015 and 2019
 historic_average &lt;- bike %&gt;%
   filter(year %in% c(2015,2016,2017,2018,2019))%&gt;%
@@ -188,12 +190,8 @@ plot_monthly_average_bike</code></pre>
 
 
 #file.show(paste(getwd(),&quot;/plot_monthly_average_bike.pdf&quot;,sep=&quot;&quot;), title=&quot;Tfl Monthly&quot;)</code></pre>
-<pre class="r"><code>knitr::include_graphics(here::here(&quot;images&quot;, &quot;tfl_weekly.png&quot;), error = FALSE)</code></pre>
-<p><img src="C:/Users/julie/Documents/1. LBS Computer/MFA/4. Class/2. Term One/2. Data Analytics/Website/my_website/images/tfl_weekly.png" style="display: block; margin: auto;" /></p>
-<pre class="r"><code>library(grid)
-
-
-#We first start by calculating the historic weekly average between 2015 and 2019
+<p>From this graph we can see the monthly average since 2015 with the blue line and the amount of bikes hired per month for each respective year with the black line. Clearly, 2020 has been an unusual year for bike travel.</p>
+<pre class="r"><code>#We first start by calculating the historic weekly average between 2015 and 2019
 historic_weeklyaverage &lt;- bike %&gt;%
   filter(year %in% c(2015,2016,2017,2018,2019))%&gt;%
   group_by(week)%&gt;%
@@ -295,11 +293,4 @@ plot_weekly_difference &lt;- weekly_difference %&gt;%
 
 plot_weekly_difference</code></pre>
 <p><img src="/projects/bikess_files/figure-html/unnamed-chunk-2-1.png" width="1440" style="display: block; margin: auto;" /></p>
-<pre class="r"><code>#Saved as a PDF to improve image quality and increase the size of the plot for readability  
-#ggsave(&quot;plot_weekly_difference.pdf&quot;, width = 15,height=10)
-
-#file.show(paste(getwd(),&quot;/plot_weekly_difference.pdf&quot;,sep=&quot;&quot;), title=&quot;Tfl Weekly&quot;)
-  
-#panel.background = element_rect(fill=&quot;grey&quot;)
-#geom_rect(data = rects_fill,aes(xmin = xstart, xmax = xend, ymin = Inf, ymax = Inf))+</code></pre>
-<p>```</p>
+<p>Using weekly data, we can precisely see which time periods were unusual. In particular, we can see that bike travel decreased significantly during the COVID lockdown but rebounded above the average post-lockdown as the bike was more attractive than traveling in the subway.</p>
