@@ -1,20 +1,20 @@
 ---
-categories:
-- ""
-- ""
-date: "2017-10-31T22:26:09-05:00"
+title: "How CEO Stock Options affect Firm Risk-taki"
+date: '2017-10-31T22:26:09-05:00'
 description: Lorem Etiam Nullam
-draft: false
+draft: no
 image: thesis.jpg
-keywords: ""
+keywords: ''
 slug: whatiread
-title: How CEO Stock Options affect Firm Risk-taki
+categories:
+- ''
+- ''
 ---
     
 ```{r obstacles_pic, echo=FALSE, out.width="50%",fig.width=0.1,fig.height=0.1,fig.align="left"}
 knitr::include_graphics("/img/pic02.jpg", error = FALSE)
 ```
 
-```{r obstacles_pic, echo=FALSE, out.width="50%",fig.width=0.1,fig.height=0.1,fig.align="right"}
+```{r sleep_pic, echo=FALSE, out.width="50%",fig.width=0.1,fig.height=0.1,fig.align="right"}
 knitr::include_graphics("/img/pic03.jpg", error = FALSE)
 ```
